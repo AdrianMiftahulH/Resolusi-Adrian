@@ -1,4 +1,5 @@
 1.Membuat kisi2 untuk ujian
-2.nabung untuk perpiasahan
 3.membuat cv website
 4.belajar bahasa pyhton
+5.belajar framework laravel
+5.belajar javascript
